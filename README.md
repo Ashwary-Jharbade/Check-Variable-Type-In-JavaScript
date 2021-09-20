@@ -3,19 +3,19 @@ Checking the type of variable in javascript
 
 ### Algorithm 
 
-step 1. Initializing an object containing key value pair of string representation data types and assigning them numeric constants.
-step 2. Declaring a variable for storing the final output message.
-step 3. Checking if the passed parameter is null.
-		step 3.1. If yes returning a string with message 'Null is not allowed'.
-		step 3.2. Going to next step.
-step 4. Defining a switch case with checking the type of the parameter passed. And passing the result to the object containing key value pair.
-		step 4.1. If parameter is of type `string` case `1` get executed and stores the message in the `message` variable.
-		step 4.2. If parameter is of type `boolean` case `2` get executed and stores the message in the `message` variable.
-		step 4.3. If parameter is of type `number` case `3` get executed and stores the message in the `message` variable.
-		step 4.4. If parameter is of type `object` case `4` get executed and stores the message in the `message` variable.
-		step 4.5. If parameter is of type `function` case `5` get executed and stores the message in the `message` variable.
-		step 4.6. Default case if any of the above case do not get executed the `message` variable stores the message for undefined case.
-step 5. Print the `message` variable
+- step 1. Initializing an object containing key value pair of string representation data types and assigning them numeric constants.
+- step 2. Declaring a variable for storing the final output message.
+- step 3. Checking if the passed parameter is null.
+		- step 3.1. If yes returning a string with message 'Null is not allowed'.
+		- step 3.2. Going to next step.
+- step 4. Defining a switch case with checking the type of the parameter passed. And passing the result to the object containing key value pair.
+		- step 4.1. If parameter is of type `string` case `1` get executed and stores the message in the `message` variable.
+		- step 4.2. If parameter is of type `boolean` case `2` get executed and stores the message in the `message` variable.
+		- step 4.3. If parameter is of type `number` case `3` get executed and stores the message in the `message` variable.
+		- step 4.4. If parameter is of type `object` case `4` get executed and stores the message in the `message` variable.
+		- step 4.5. If parameter is of type `function` case `5` get executed and stores the message in the `message` variable.
+		- step 4.6. Default case if any of the above case do not get executed the `message` variable stores the message for undefined case.
+- step 5. Print the `message` variable
 
 
 ### Code
